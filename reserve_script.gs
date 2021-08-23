@@ -1,4 +1,4 @@
-var calId = "bu6ddoalk3ghqj7dmmbr288jno@group.calendar.google.com";
+var calId = "YOUR_CALENDAR_ID@group.calendar.google.com";
 
 function getSchedulesByCalendar(e) {
   try {
